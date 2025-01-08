@@ -585,7 +585,7 @@ def get_random_event(hero):
 
     elif event == "Um monstro raro apareceu! Prepare-se para lutar!":
         monster = Monster("Dragão Jovem", "Dragão", level=10, vitality=100, attack=30)
-        fight_with_loot(hero, monster, heroes)
+        fight_with_loot(hero, monster, hero)
 
 def complete_mission(hero, mission):
     print(f"Você aceitou a missão: {mission['name']}")

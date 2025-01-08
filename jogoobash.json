@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Merlin",
+        "class": "Mago",
+        "mana": 70,
+        "black_mana": 0,
+        "vitality": 40,
+        "arcane": 60,
+        "speed": 50,
+        "attack": 30,
+        "level": 1,
+        "experience": 0,
+        "abilities": []
+    }
+]

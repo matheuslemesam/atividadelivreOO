@@ -6,25 +6,25 @@ JogOObash: jogo feito desenvolvido rodar no terminal aplicando os conceitos de o
   Sobre o jogo:
     é um RPG de turnos no qual o jogador cria e controla heróis com diferentes classes e habilidades para enfrentar monstros, explorar o mundo, completar missões e coletar recompensas. O jogo permite:
       criação de heróis, combate por turnos, exploração e eventos aleatórios, gerenciamento de inventário, progressão de nível e outros.
-    Como Jogar:
-      Ao iniciar o programa, você verá um menu principal com opções como criar heróis, mostrar heróis, lutar com monstros, explorar o mundo e mais.
+  Como Jogar:
+    Ao iniciar o programa, você verá um menu principal com opções como criar heróis, mostrar heróis, lutar com monstros, explorar o mundo e mais.
 
-      Escolha um nome e uma classe para seu herói.
+    Escolha um nome e uma classe para seu herói.
       Cada classe tem atributos únicos, como Mana, Vitalidade, Ataque, Velocidade e Habilidades específicas.
 
-      Criar Herói: Crie até 4 heróis no total.
-      Mostrar Heróis: Veja os detalhes dos heróis existentes, como atributos, habilidades, e experiência.
-      Lutar com Monstro: Escolha um herói para enfrentar monstros. Use ataques básicos ou habilidades especiais para vencer e coletar recompensas.
-      Explorar: Enfrente eventos aleatórios como armadilhas, baús de tesouro, mercadores, missões ou batalhas.
-      Gerenciar Inventário: Veja os itens coletados, equipe equipamentos ou use poções para aumentar atributos.
-      Salvar e Sair: Salve seu progresso para continuar o jogo mais tarde.
+    Criar Herói: Crie até 4 heróis no total.
+    Mostrar Heróis: Veja os detalhes dos heróis existentes, como atributos, habilidades, e experiência.
+    Lutar com Monstro: Escolha um herói para enfrentar monstros. Use ataques básicos ou habilidades especiais para vencer e coletar recompensas. Ao morrer o herói é apagado logo o progresso dele é perdido.
+    Explorar: Enfrente eventos aleatórios como armadilhas, baús de tesouro, mercadores, missões ou batalhas.
+    Gerenciar Inventário: Veja os itens coletados, equipe equipamentos ou use poções para aumentar atributos.
+    Salvar e Sair: Salve seu progresso para continuar o jogo mais tarde.
 
-      Cada turno, você pode escolher entre:
-      Ataque Básico.
-      Usar uma Habilidade Especial (se desbloqueada).
-      Fugir da batalha.
-      Após derrotar um monstro, colete recompensas como itens, moedas ou experiência.
+    Cada turno, você pode escolher entre:
+    Ataque Básico.
+    Usar uma Habilidade Especial (se desbloqueada).
+    Fugir da batalha.
+    Após derrotar um monstro, colete recompensas como itens, moedas ou experiência.
 
-      Ao ganhar experiência suficiente, o herói sobe de nível, desbloqueando habilidades e permitindo a distribuição de pontos de atributo.
+    Ao ganhar experiência suficiente, o herói sobe de nível, desbloqueando habilidades e permitindo a distribuição de pontos de atributo.
 
-      Use ou equipe itens para melhorar atributos como Vitalidade, Ataque ou Mana.
+    Use ou equipe itens para melhorar atributos como Vitalidade, Ataque ou Mana.
